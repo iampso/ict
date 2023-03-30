@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lab9_1 {
+public class ex1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char[] arr = new char[10];
