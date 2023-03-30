@@ -3,7 +3,7 @@
 package com.test;
 import java.util.Scanner;
 
-public class lab9_3 {
+public class ex3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите строку:");
