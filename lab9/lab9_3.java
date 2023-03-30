@@ -1,3 +1,4 @@
+//Не тестил
 //Не спрашивайте зачем так много строк, я дурак
 package com.test;
 import java.util.Scanner;
