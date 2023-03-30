@@ -1,7 +1,7 @@
 package com.test;
 import java.util.Scanner;
 
-public class lab9_5 {
+public class ex5 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите строку: ");
